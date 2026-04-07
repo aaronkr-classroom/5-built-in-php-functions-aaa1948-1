@@ -4,7 +4,6 @@ $path = 'code/section_b/c05/';
 
 // @TODO
 ?>
-<?php include 'includes/header.php'; ?>
 <p>
   <b>Was a match found?</b><br>
 
@@ -15,4 +14,3 @@ $path = 'code/section_b/c05/';
   <b>Updated text:</b><br>
 
 </p>
-<?php include 'includes/footer.php'; ?>
